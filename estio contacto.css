@@ -1,0 +1,191 @@
+@charset "utf-8";
+.logo img {
+	text-align: center;
+	margin-left: 250px;
+	padding-left: 400px;
+	padding-right: 350px;
+
+}
+.contenedor .contenedordetex .conte .conte {
+	font-family: Baskerville, Palatino Linotype, Palatino, Century Schoolbook L, Times New Roman, serif;
+}
+#navegation {
+	text-align: center;
+	text-decoration: none;
+	font-family: artifika;
+	font-style: normal;
+	font-weight: 400;
+	color: #050505;
+	margin-bottom: 20px;
+	margin-top: 20px;
+	position: static;
+}
+#navegation a {
+	color: #020202;
+	font-family: artifika;
+	font-style: normal;
+	font-size: 14px;
+	font-weight: bold;
+	text-decoration: none;
+	padding-bottom: 20px;
+	margin-bottom: 20px;
+}
+#navegation a:hover {
+	background-color: antiquewhite
+}
+.contenedor {
+	background-color: #ACCB68;
+	height: 700px;
+	width: 784px;
+	margin-left: 400px;
+}
+.contenedor .contenedordetex {
+	width: 350px;
+	float: left;
+	padding-left: 25px;
+	padding-top: 60px;
+}
+.contenedor .imagen img {
+	padding-left: 13px;
+	padding-top: 50px;
+
+}
+.contenedor .contenedordetex .conte {
+	text-align: justify;
+}
+.contenedordetex div .ti {
+	color: #550405;
+	font-family: architects-daughter;
+	font-style: normal;
+	font-weight: 400;
+}
+
+.cuadro.amarillo {
+	background-color: rgba(225,156,68,1.00);
+	height: 250px; 
+	width: 784px;
+}
+.cuadro.amarillo .conteem {
+	width: 350px;
+	height: 250px;
+	float: left;
+}
+
+.cuadro.amarillo .burger {
+	width: 350px;
+	height: 190px;
+	float: left;
+}
+
+.cuadro.amarillo .burger {
+	padding-left: 10px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	float: left;
+	margin-left: 20px;
+}
+
+#conte tex .bu {
+	color: rgba(251,247,247,1.00);
+	font-family: artifika;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 20px;
+}
+tex .bu p {
+	color: rgba(248,245,245,1.00);
+	font-family: artifika;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 20px;
+}
+
+.cuadro.amarillo {
+	width: 780px;
+	height: 250px;
+	margin-left: 400px;
+}
+.cuadro.gris .contebur {
+	width: 330px;
+	height: 310px;
+	float: left;
+	padding-left: 55px;
+	padding-right: 20px;
+	padding-top: 30px;
+}
+.cuadro.gris {
+	width: 780px;
+	height: 365px;
+	background-color: rgba(26,24,24,1.00);
+	margin-left: 400px;
+	
+}
+.pie {
+	background-color: rgba(10,10,10,1.00);
+	color: rgba(249,249,249,1.00);
+	width: 780px;
+	height: 110px;
+	text-align: center;
+	margin-left: 400px;
+	position: absolute;
+}
+.pie p {
+	padding-top: 30px;
+}
+
+
+body footer {
+	width: 780px;
+	height: 100px;
+	margin-left: 400px;
+	background-color: rgba(6,6,6,1.00);
+}
+body footer h3 {
+	color: rgba(249,244,244,1.00);
+	text-align: center;
+	font-size: 13px;
+}
+
+
+
+.cuadro.gris .cuadroblan {
+	width: 330px;
+	height: 200px;
+	color: rgba(252,248,248,1.00);
+	text-align: center;
+	float: left;
+	padding-left: 30px;
+	padding-top: 85px;
+	padding-right: 10px;
+}
+.cuadro.gris .contebur .tex.b {
+	color: rgba(247,240,240,1.00);
+}
+
+
+
+.cuadro.amarillo .conteem .email {
+	background-color: rgba(249,242,242,1.00);
+	color: rgba(22,21,21,1.00);
+	padding-left: 10px;
+	float: left;
+	width: 200px;
+	margin-top: 55px;
+	margin-right: 20px;
+	height: 50px;
+}
+.cuadro.amarillo .conteem .enviar {
+	width: 80px;
+	height: 30px;
+	padding-bottom: 10px;
+	background-color: rgba(247,239,239,1.00);
+	color: rgba(245,81,7,1.00);
+	text-align: center;
+	float: left;
+	margin-top: 60px;
+}
+
+
+
+
+
